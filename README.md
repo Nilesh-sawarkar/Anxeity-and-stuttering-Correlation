@@ -1,0 +1,1 @@
+This project explores the correlation between anxiety levels and speech disorders, with a primary focus on stuttering. The aim is to analyze whether individuals with higher anxiety levels are more likely to exhibit speech disfluencies or disorders like stuttering.
